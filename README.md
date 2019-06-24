@@ -1,5 +1,11 @@
 # Programming Assignment
 
+感谢您对乌圆的关注！
+
+在完成测试后，请将完成的测试发送到此邮箱 info@eracpihs.com
+
+我们会在一周内查看你所完成的代码，并与 7 月 1 号到 5 号陆续进行面试
+
 ## Time: 96 hours
 
 ## Objective
