@@ -16,7 +16,7 @@
 
 - Allows a user to manage a To-Do list (CRUD)
   - View To-Do items
-  - Add a new item to the list
+  - Add a new To-Do item to the list
   - Edit a To-Do item
   - Remove a To-Do from the list
 - Persist data to storage
