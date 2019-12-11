@@ -31,7 +31,7 @@
 - Write front-end using [React](https://zh-hans.reactjs.org/docs/getting-started.html) and [JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - Write back-end using [GraphQL](https://graphql.cn/learn/), and [Node.js](https://nodejs.org/zh-cn/docs/guides/getting-started-guide/)
   - Please use either [Koa2](https://koajs.com/#introduction) or [Express](http://www.expressjs.com.cn/)
-- Design using [Semantic UI](https://semantic-ui.com/)
+- Design using [Semantic UI](https://react.semantic-ui.com/)
 - Follow proper code styles (e.g. [Airbnb Javascript style guide](https://github.com/lin-123/javascript))
 - (Optional) Use static type checking, e.g. Typescript, Flow, Proptypes
 - (Optional) Unit tests, e.g, Jest
