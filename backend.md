@@ -3,12 +3,14 @@
 感谢您对乌圆的关注！
 
 在完成测试后，请将完成的测试发送到
-- 邮箱: adam@eracpihs.com
+
+- 邮箱: adam@cavalry.online
 - 邮件主题: **乌圆后端测试提交**
 
 我们会在一周内查看你所完成的代码，并陆续邀请您面试
 
 ## Time: 72 hours
+
 ## Objective
 
 - Create GraphQL endpoint to manage a To-Do List
