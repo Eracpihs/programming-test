@@ -4,7 +4,7 @@
 
 在完成测试后，请将完成的测试发送到
 
-- 邮箱: recruitment@cavalry.online
+- 邮箱: adam@cavalry.online
 - 邮件主题: **乌圆后端测试提交**
 
 我们会在一周内查看你所完成的代码，并陆续邀请您面试
@@ -27,7 +27,7 @@
 
 ## Specifications
 
-- Write using [GraphQL](https://graphql.cn/learn/), [Koa2](https://koajs.com/#introduction) and [Node.js](https://nodejs.org/zh-cn/docs/guides/getting-started-guide/)
+- Write [GraphQL](https://graphql.cn/learn/) endpoints using [Apollo Server](https://www.apollographql.com/docs/apollo-server/)
 - Follow proper code styles (e.g. [Airbnb Javascript style guide](https://github.com/lin-123/javascript))
 - (Optional) Use static type checking, e.g. Typescript, Flow, Proptypes
 - (Optional) Unit tests, e.g, Jest

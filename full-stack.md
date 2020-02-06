@@ -4,7 +4,7 @@
 
 在完成测试后，请将完成的测试发送到
 
-- 邮箱: recruitment@cavalry.online
+- 邮箱: adam@cavalry.online
 - 邮件主题: **乌圆全栈测试提交**
 
 我们会在一周内查看你所完成的代码，并陆续邀请您面试
@@ -29,7 +29,7 @@
 ## Specifications
 
 - Write front-end using [React](https://zh-hans.reactjs.org/docs/getting-started.html) and [JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-- Write back-end using [GraphQL](https://graphql.cn/learn/), [Koa2](https://koajs.com/#introduction) and [Node.js](https://nodejs.org/zh-cn/docs/guides/getting-started-guide/)
+- For back-end, write [GraphQL](https://graphql.cn/learn/) endpoints using [Apollo Server](https://www.apollographql.com/docs/apollo-server/)
 - Design using [Ant Design UI components](https://ant.design/index-cn)
 - Follow proper code styles (e.g. [Airbnb Javascript style guide](https://github.com/lin-123/javascript))
 - (Optional) Use static type checking, e.g. Typescript, Flow, Proptypes
