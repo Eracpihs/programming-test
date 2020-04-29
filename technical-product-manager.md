@@ -22,15 +22,17 @@
   - Add a new To-Do item to the list
   - Edit a To-Do item
   - Remove a To-Do from the list
-- Fetch and save data to Node.js server using GraphQL
-- Secure GraphQL endpoints with OAuth2
-- Containerize and host using Kubernetes
+- When page is refreshed, list will not be reset
+  - Fetch and save data to Node.js server using GraphQL
 
 ## Specifications
 
 - Write front-end using [React](https://zh-hans.reactjs.org/docs/getting-started.html) and [JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - For back-end, write [GraphQL](https://graphql.cn/learn/) endpoints using [Apollo Server](https://www.apollographql.com/docs/apollo-server/)
 - Design using [Ant Design UI components](https://ant.design/index-cn)
+- Follow proper code styles (e.g. [Airbnb Javascript style guide](https://github.com/lin-123/javascript))
 - Use linting
 - Use static type checking, e.g. Typescript, Flow, Proptypes
 - Unit tests and integration tests, e.g, Jest, react-testing-library
+- Secure GraphQL endpoints with OAuth2
+- Containerize and host using Kubernetes
