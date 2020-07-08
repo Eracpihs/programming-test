@@ -23,11 +23,11 @@
   - Update a To-Do item
   - Delete a To-Do item
 - Store collection of To-Do items using either MongoDB, or any other NoSQL databases
-- (Optional) Secure GraphQL endpoints with authentication
+- Secure GraphQL endpoints with authentication
 
 ## Specifications
 
 - Write [GraphQL](https://graphql.cn/learn/) endpoints using [Apollo Server](https://www.apollographql.com/docs/apollo-server/)
 - Follow proper code styles (e.g. [Airbnb Javascript style guide](https://github.com/lin-123/javascript))
-- (Optional) Use static type checking, e.g. Typescript, Flow, Proptypes
-- (Optional) Unit tests, e.g, Jest
+- Use static type checking, e.g. Typescript, Flow, Proptypes
+- Write unit tests, e.g, Jest

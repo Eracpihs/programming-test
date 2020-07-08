@@ -33,6 +33,11 @@
 - Follow proper code styles (e.g. [Airbnb Javascript style guide](https://github.com/lin-123/javascript))
 - Use linting
 - Use static type checking, e.g. Typescript, Flow, Proptypes
-- Unit tests and integration tests, e.g, Jest, react-testing-library
+- Write unit tests and integration tests, e.g, Jest, react-testing-library
 - (Optional) Secure backend endpoints with OAuth2
 - (Optional) Deploy
+
+## Submission Guidelines
+
+- Application should be runnable using `npm start` command
+- Please host code in a public repository on [GitHub](https://github.com/)

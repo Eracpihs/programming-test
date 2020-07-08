@@ -24,12 +24,17 @@
   - Remove a To-Do from the list
 - Persist data to storage
   - When page is refreshed, list will not be reset
-  - Persist using either HTML5 web storage, or any other means
+  - Persist using either HTML5 web storage, or using Node.js backend
 
 ## Specifications
 
 - Write using [React](https://zh-hans.reactjs.org/docs/getting-started.html) and [JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - Design using [Ant Design UI components](https://ant.design/index-cn)
 - Follow proper code styles (e.g. [Airbnb Javascript style guide](https://github.com/lin-123/javascript))
-- (Optional) Use static type checking, e.g. Typescript, Flow, Proptypes
-- (Optional) Unit tests
+- Use static type checking, e.g. Typescript, Flow, Proptypes
+- Write unit tests, e.g, Jest, react-testing-library
+
+## Submission Guidelines
+
+- Application should be runnable using `npm start` command
+- Please host code in a public repository on [GitHub](https://github.com/)

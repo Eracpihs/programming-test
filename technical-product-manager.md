@@ -36,3 +36,8 @@
 - Unit tests and integration tests, e.g, Jest, react-testing-library
 - Secure GraphQL endpoints with OAuth2
 - Containerize and host using Kubernetes
+
+## Submission Guidelines
+
+- Application should be runnable using `npm start` command
+- Please host code in a public repository on [GitHub](https://github.com/)
