@@ -31,3 +31,8 @@
 - Follow proper code styles (e.g. [Airbnb Javascript style guide](https://github.com/lin-123/javascript))
 - Use static type checking, e.g. Typescript, Flow, Proptypes
 - Write unit tests, e.g, Jest
+
+## Submission Guidelines
+
+- Application should be runnable using `npm start` command
+- Please host code in a public repository on [GitHub](https://github.com/)
