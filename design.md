@@ -17,9 +17,9 @@
 
 ## Requirements
 
-An existing client (not a real client) provides Employee Reskilling training to adults between the ages of 21 - 55. These trainings have traditionally been conducted in-person, however, due to the impact of COVID-19, trainees now have the option to attend trainings online as well. In other words, training sessions can consists of both trainees in class, and also trainees who are conected over video calls.
+An existing client (not a real client) provides Employee Reskilling training to adults between the ages of 21 - 55. These trainings have traditionally been conducted in-person, however, due to the impact of COVID-19, trainees now have the option to attend trainings online as well. In other words, training sessions can consists of both trainees in class, and also trainees who are connected over video calls.
 
-Currently, attendance taking is done by the trainer by filling up a form at the start of the lesson. However, as some trainees are connected via video calls, the process has become more tedious, requiring trainers to record :
+Currently, attendance taking is done by the trainer by filling up a form at the start of the lesson. However, as some trainees are connected via video calls, the process has become more tedious, requiring trainers to record:
 
 - Whether trainees are Present/Absent
 - Whether trainees are in class, or connected via video calls.
@@ -34,7 +34,7 @@ Explain and visualise the user flow from start to finish for two different user 
 1. A trainer wants to mark attendance for a class
 2. A trainer wants to check a trainees's attendance for a particular month
 
-The client want to change the design so feel free to come up with a new style. Additionally, the client has also requested the design to be done using Figma.
+The client has requested the design to be done using Figma.
 
 ## Submission Guidelines
 
