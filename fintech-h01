@@ -1,0 +1,54 @@
+# Programming Assignment
+
+感谢您对乌圆的关注！
+
+在完成测试后，请将完成的测试发送到
+
+- 邮箱: hiring@cavalry.online
+- 邮件主题: **乌圆高级后端测试提交**
+
+我们会在一周内查看你所完成的代码，并陆续邀请您面试
+
+## Time: 72 hours
+
+## Objective
+
+- Write a To-Do app that supports multi-level lists
+
+## Requirements
+
+- UI Wireframe: https://whimsical.com/coding-test-advanced-DZEmCw8RCDo2iDGoitDWMu@2Ux7TurymMwm9pmiP7QN
+- Allows a user to manage a multi-level To-Do list
+  - View
+    - View tasks
+    - View sub-tasks
+  - Add
+    - Add a task
+    - Add a sub-task to a task or sub-task
+  - Edit
+    - Edit description for task or sub-task
+    - Complete a task or sub-task
+      - When all sub-tasks are completed, the parent task will be completed as well
+  - (Optional requirement) Due dates
+    - Can set a due date when task is created
+    - When due date is reached, task will be marked as overdue
+
+
+## Specifications
+
+- For backend endpoints
+  - Option 1: Write RESTful endpoints using Python with [Tornado](https://www.tornadoweb.org/en/stable/)
+  - Option 2: Write RESTful endpoints using Golang
+- Save data to PostgreSQL database
+- Secure backend endpoints with OAuth2
+- Write unit tests and integration tests
+- Dockerize application
+- (Optional requirement) For frontend
+  - Write front-end using [React](https://zh-hans.reactjs.org/docs/getting-started.html) and [JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+  - Design using [Ant Design UI components](https://ant.design/index-cn)
+- Follow proper code styles
+- Use linting
+
+## Submission Guidelines
+
+- Please host code in a public repository on [GitHub](https://github.com/)
