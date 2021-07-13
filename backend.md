@@ -4,7 +4,7 @@
 
 在完成测试后，请将完成的测试发送到
 
-- 邮箱: hiring@cavalry.online
+- 邮箱: careers@cavalry.online
 - 邮件主题: **乌圆后端测试提交**
 
 我们会在一周内查看你所完成的代码，并陆续邀请您面试
