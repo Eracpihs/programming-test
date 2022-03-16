@@ -13,22 +13,30 @@
 
 ## Objective
 
-- Write a web app to manage a To-Do List
+- Write endpoints for a To-Do app that supports multi-level lists
 
 ## Requirements
 
-- Allows a user to manage a To-Do list (CRUD)
-  - View To-Do items
-  - Add a new To-Do item to the list
-  - Edit a To-Do item
-  - Remove a To-Do from the list
-- When page is refreshed, list will not be reset
-  - Fetch and save data to Node.js server using GraphQL
+- [UI Wireframe](https://whimsical.com/coding-test-advanced-DZEmCw8RCDo2iDGoitDWMu@2Ux7TurymMwm9pmiP7QN)
+- Allows a user to manage a multi-level To-Do list
+  - View
+    - View tasks
+    - View sub-tasks
+  - Add
+    - Add a task
+    - Add a sub-task to a task or sub-task
+  - Edit
+    - Edit description for task or sub-task
+    - Complete a task or sub-task
+      - When all sub-tasks are completed, the parent task will be completed as well
+  - Due dates
+    - Can set a due date when task is created
+    - When due date is reached, task will be marked as overdue
 
 ## Specifications
 
 - Write front-end using [React](https://zh-hans.reactjs.org/docs/getting-started.html) and [JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-- For back-end, write [GraphQL](https://graphql.cn/learn/) endpoints using [Apollo Server](https://www.apollographql.com/docs/apollo-server/)
+- For back-end, write RESTful endpoints using [Node.js](http://nodejs.cn/)
 - Design using [Ant Design UI components](https://ant.design/index-cn)
 - Follow proper code styles (e.g. [Airbnb Javascript style guide](https://github.com/lin-123/javascript))
 - Use linting
