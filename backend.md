@@ -5,7 +5,7 @@
 在完成测试后，请将完成的测试发送到
 
 - 邮箱: careers@cavalry.online
-- 邮件主题: **乌圆后端测试提交**
+- 邮件主题: **乌圆Node.js后端测试提交**
 
 我们会在一周内查看你所完成的代码，并陆续邀请您面试
 
@@ -13,24 +13,31 @@
 
 ## Objective
 
-- Create GraphQL endpoint to manage a To-Do List
+- Write endpoints for a To-Do app that supports multi-level lists
 
 ## Requirements
 
-- GraphQL endpoint will allow users to manage a collection of To-Do items (CRUD)
-  - List all To-Do items
-  - Create a new To-Do item
-  - Update a To-Do item
-  - Delete a To-Do item
-- Store collection of To-Do items using either MongoDB, or any other NoSQL databases
-- Secure GraphQL endpoints with authentication
+- [UI Wireframe](https://whimsical.com/coding-test-advanced-DZEmCw8RCDo2iDGoitDWMu@2Ux7TurymMwm9pmiP7QN)
+- Allows a user to manage a multi-level To-Do list
+  - View
+    - View tasks
+    - View sub-tasks
+  - Add
+    - Add a task
+    - Add a sub-task to a task or sub-task
+  - Edit
+    - Edit description for task or sub-task
+    - Complete a task or sub-task
+      - When all sub-tasks are completed, the parent task will be completed as well
+  - Due dates
+    - Can set a due date when task is created
+    - When due date is reached, task will be marked as overdue
 
 ## Specifications
 
-- Write [GraphQL](https://graphql.cn/learn/) endpoints using [Apollo Server](https://www.apollographql.com/docs/apollo-server/)
-- Follow proper code styles (e.g. [Airbnb Javascript style guide](https://github.com/lin-123/javascript))
-- Use static type checking, e.g. Typescript, Flow, Proptypes
-- Write unit tests, e.g, Jest
+- Write RESTful endpoints using [Node.js](http://nodejs.cn/)
+- Follow proper code styles
+- Write unit tests
 
 ## Submission Guidelines
 
