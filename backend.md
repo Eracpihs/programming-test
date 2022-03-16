@@ -37,7 +37,11 @@
 
 - Write RESTful endpoints using [Node.js](http://nodejs.cn/)
 - Follow proper code styles
-- Write unit tests
+- Use linting
+- Use static type checking, e.g. Typescript, Flow, Proptypes
+- Write unit tests and integration tests
+- (Optional) Secure backend endpoints with OAuth2
+- (Optional) Deploy
 
 ## Submission Guidelines
 
